@@ -1,5 +1,5 @@
 
-# Coffe Machine
+# Coffee Machine
 JetBrains Academy
 
 What can be better than a cup of coffee during a break? A coffee that you don’t have to
